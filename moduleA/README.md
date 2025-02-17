@@ -15,11 +15,11 @@
 
 
 ### Сайты для бронирования тура (выбрать, что подойдёт лучше)
-> https://anextour.ru
+> - https://anextour.ru
 
-> https://www.paks.ru/
+> - https://www.paks.ru/
 
-> https://www.bgoperator.ru/
+> - https://www.bgoperator.ru/
 
 ### Покупка авиабилетов (на всякий случай)
 > https://www.aviasales.ru/
