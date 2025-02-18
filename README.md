@@ -1,7 +1,7 @@
 # championat
 
-## Диск с критериями
+## Файл с критериями
 
-Папку можно получить по ссылке:
-kriteriy
-https://disk.yandex.ru/d/8BqDoI-1muMuPw
+Файл можно получить по ссылке:
+Критерии-оценки-Туризм-Юниоры-РЧ-2025--07.11. (1).xlsx
+https://disk.yandex.ru/i/fUE-hAJ4bLxuWg
